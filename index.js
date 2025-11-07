@@ -92,4 +92,4 @@ orderTracker.updateStatus('Processing');
 console.log("---");
 orderTracker.removeObserver(emailNotifier);
 orderTracker.updateStatus('Shipped');
-console.log("\n");
+console.log("\n"); 
